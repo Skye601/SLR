@@ -17,10 +17,11 @@ Dataset information and related papers
   
   
 2. [CSL](http://mccipc.ustc.edu.cn/mediawiki/index.php/SLR_Dataset)  
-  Identify sign language words in 500 categories. The dataset contains more than 110,000 samples, 
-  each containing a positional trajectory of 25 human key points.  
+  The isolated SLR dataset contains 500 Chinese sign words. Each sign video is performed by 50 signers with 5 times. Hence, there are 250 instances for each sign word. The corpus of continuous SLR dataset contains 100 Chinese sentence. There are 250 instances (50signers x 5times) for each sentence.  
   2.1[ Video-based Sign Language Recognition without Temporal Segmentation](https://arxiv.org/pdf/1801.10111.pdf), 2018  
-  2.2 
+  2.2[ Hierarchical LSTM for Sign Language Translation](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf), 2018  
+  2.3[ Iterative Alignment Network for Continuous Sign Language Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf), 2019  
+  
 ### American Sign Language (ASL)
 
 ### German Sign Language (GSL)
