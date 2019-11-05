@@ -22,11 +22,12 @@ Dataset information and related papers
 
 #### German Sign Language (DGS)
 1. [ SIGNUM](https://www.phonetik.uni-muenchen.de/forschung/Bas/SIGNUM/) 
-  
+  ![SIGNUM](https://github.com/Skye601/SLR/blob/master/images/signum.png)  
   1.1 [ Continuous sign language recognition: Towards large vocabulary statistical recognition systems handling multiple signers](https://www.sciencedirect.com/science/article/pii/S1077314215002088), 2015
-  1.2 []
-2. [ RWTH-PHOENIX-Weather](http://www-i6.informatik.rwth-aachen.de/~forster/database-rwth-phoenix.php)  
+  1.2 []()  
   
+2. [ RWTH-PHOENIX-Weather](http://www-i6.informatik.rwth-aachen.de/~forster/database-rwth-phoenix.php)  
+  ![RWTH-PHOENIX-Weather](https://github.com/Skye601/SLR/blob/master/images/RWTH_PHOENIX.png)  
   1.1 [ RWTH-PHOENIX-Weather:A Large Vocabulary Sign Language Recognition and Translation Corpus](http://lrec.elra.info/proceedings/lrec2012/pdf/844_Paper.pdf)  
   1.2 [ Extensions of the Sign Language Recognition and Translation CorpusRWTH-PHOENIX-Weather](http://www.lrec-conf.org/proceedings/lrec2014/pdf/585_Paper.pdf), 2014  
   1.3 [ Continuous sign language recognition: Towards large vocabulary statistical recognition systems handling multiple signers](https://www.sciencedirect.com/science/article/pii/S1077314215002088), 2015  
