@@ -5,12 +5,7 @@ Dataset information and related papers
 ### Chinese Sign Language (CSL)  
 
 1. [DEVISIGN](http://vipl.ict.ac.cn/homepage/ksl/data.html)  
-  ![devisign](https://github.com/Skye601/SLR/blob/master/images/devisign.png)
-  the DEVISIGN database covers 4414 standard Chinese Sign Language vocabularies and totally contains 331,050 vocabulary
-  data of 30 individuals(13 males and 17 females). Each vocabulary data is 
-  composed of RGB video(in “avi” format), the depth and skeleton information (in “bin” format). 
-  This database contains both inter-sign and intra-sign changes. For 15 signers, the data were collected by 4 times 
-  and for the remaining signers, the data were captured only one time.   
+  ![devisign](https://github.com/Skye601/SLR/blob/master/images/devisign1.png)
   1.1[ Isolated Sign Language Recognition with Grassmann Covariance Matrices. Acm Transactions on Accessible Computing](http://vipl.ict.ac.cn/uploadfile/upload/2018112115430139.pdf), 2016  
   1.2[ Sign language recognition using depth images](https://www.semanticscholar.org/paper/Sign-language-recognition-using-depth-images-Zheng-Liang/1ca16a088581a8c88972b55ac1a9d3e444f1655e),2016  
   1.3[ Iterative Reference Driven Metric Learningfor Signer Independent Isolated SignLanguage Recognition](http://vipl.ict.ac.cn/uploadfile/upload/2018112115134267.pdf)  
