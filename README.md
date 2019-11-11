@@ -19,7 +19,7 @@ Dataset information and related papers
   2.3[ Iterative Alignment Network for Continuous Sign Language Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf), 2019  
 
 ### Other country Sign Language
-
+[otherlanguage](http://facundoq.github.io/unlp/sign_language_datasets/)
 #### German Sign Language (DGS)
 1. [ SIGNUM](https://www.phonetik.uni-muenchen.de/forschung/Bas/SIGNUM/) 
   ![SIGNUM](https://github.com/Skye601/SLR/blob/master/images/signum.png)  
@@ -35,20 +35,19 @@ Dataset information and related papers
   
 #### American Sign Language (ASL)
 
+#### Irish Sign Language (ISL)
 
-### Irish Sign Language (ISL)
+#### Japanese Sign Language Dataset (JSL)
 
-### Japanese Sign Language Dataset (JSL)
+#### Polish Sign Language (PSL)
 
-### Polish Sign Language (PSL)
+#### Greek Sign Language (GSL)
 
-### Greek Sign Language (GSL)
+#### Indian Sign Language (ISL)
 
-### Indian Sign Language (ISL)
+#### Australia Sign Language (ASL)
 
-### Australia Sign Language (ASL)
-
-### Arabic Alphabets Sign Language (ArASL)
+#### Arabic Alphabets Sign Language (ArASL)
 
   
   
