@@ -13,10 +13,15 @@ Dataset information and related papers
   
   
 2. [CSL](http://mccipc.ustc.edu.cn/mediawiki/index.php/SLR_Dataset)  
+  手语词；连续手语句子
   ![CSL](https://github.com/Skye601/SLR/blob/master/images/CSL.png) 
   2.1[ Video-based Sign Language Recognition without Temporal Segmentation](https://arxiv.org/pdf/1801.10111.pdf), 2018  
   2.2[ Hierarchical LSTM for Sign Language Translation](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf), 2018  
   2.3[ Iterative Alignment Network for Continuous Sign Language Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf), 2019  
+
+3.[Chinese Sign Language Recognition Dataset](http://home.ustc.edu.cn/~hagjie/)
+  手语词；中科大
+  3.1 Attention-Based 3D-CNNs for Large-Vocabulary Sign Language Recognition
 
 ### Other country Sign Language
 [otherlanguage](http://facundoq.github.io/unlp/sign_language_datasets/)
